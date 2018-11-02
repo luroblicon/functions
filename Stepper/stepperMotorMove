@@ -1,0 +1,15 @@
+// This #include statement was automatically added by the Particle IDE.
+#include <AccelStepperSpark.h>
+
+AccelStepper motor()
+
+int counter = 0;
+
+void setup() {
+  Serial.begin(9600);
+
+}
+
+void loop() {
+
+}
