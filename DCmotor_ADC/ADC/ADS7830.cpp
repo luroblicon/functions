@@ -56,6 +56,7 @@ void ADS7830::setCommand(int commandMode){
 
 int ADS7830::readChan(int chanNum){
   _chanNum = chanNum;
+  _commandByte = (_commandByte & (~(1 << 6)) & (~(1 << 5)) & (~(1 << 4))); 
   switch (_chanNum)
   {
     case 0:
