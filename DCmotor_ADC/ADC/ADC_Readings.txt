@@ -1,0 +1,354 @@
+I2C bus error. Verify the signal pullups.Start, hC0 [ h60 | WR ] NAK, Stop
+Start, hC0 [ h60 | WR ] NAK, Stop
+Start, hC0 [ h60 | WR ] NAK, Stop
+Start, hC0 [ h60 | WR ] NAK, Stop
+Start, hC0 [ h60 | WR ] NAK, Stop
+Start, hC0 [ h60 | WR ] NAK, Stop
+Start, hC0 [ h60 | WR ] NAK, Stop
+Start, h90 [ h48 | WR ], h01, h02 NAK, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, h49 NAK, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h91 [ h48 | RD ], hB1, hB1, hB1, hB1 NAK, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h10 [ h08 | WR ] NAK, Stop
+Start, h12 [ h09 | WR ] NAK, Stop
+Start, h14 [ h0A | WR ] NAK, Stop
+Start, h16 [ h0B | WR ] NAK, Stop
+Start, h18 [ h0C | WR ] NAK, Stop
+Start, h1A [ h0D | WR ] NAK, Stop
+Start, h1C [ h0E | WR ] NAK, Stop
+Start, h1E [ h0F | WR ] NAK, Stop
+Start, h20 [ h10 | WR ] NAK, Stop
+Start, h22 [ h11 | WR ] NAK, Stop
+Start, h24 [ h12 | WR ] NAK, Stop
+Start, h26 [ h13 | WR ] NAK, Stop
+Start, h28 [ h14 | WR ] NAK, Stop
+Start, h2A [ h15 | WR ] NAK, Stop
+Start, h2C [ h16 | WR ] NAK, Stop
+Start, h2E [ h17 | WR ] NAK, Stop
+Start, h30 [ h18 | WR ] NAK, Stop
+Start, h32 [ h19 | WR ] NAK, Stop
+Start, h34 [ h1A | WR ] NAK, Stop
+Start, h36 [ h1B | WR ] NAK, Stop
+Start, h38 [ h1C | WR ] NAK, Stop
+Start, h3A [ h1D | WR ] NAK, Stop
+Start, h3C [ h1E | WR ] NAK, Stop
+Start, h3E [ h1F | WR ] NAK, Stop
+Start, h40 [ h20 | WR ] NAK, Stop
+Start, h42 [ h21 | WR ] NAK, Stop
+Start, h44 [ h22 | WR ] NAK, Stop
+Start, h46 [ h23 | WR ] NAK, Stop
+Start, h48 [ h24 | WR ] NAK, Stop
+Start, h4A [ h25 | WR ] NAK, Stop
+Start, h4C [ h26 | WR ] NAK, Stop
+Start, h4E [ h27 | WR ] NAK, Stop
+Start, h50 [ h28 | WR ] NAK, Stop
+Start, h52 [ h29 | WR ] NAK, Stop
+Start, h54 [ h2A | WR ] NAK, Stop
+Start, h56 [ h2B | WR ] NAK, Stop
+Start, h58 [ h2C | WR ] NAK, Stop
+Start, h5A [ h2D | WR ] NAK, Stop
+Start, h5C [ h2E | WR ] NAK, Stop
+Start, h5E [ h2F | WR ] NAK, Stop
+Start, h60 [ h30 | WR ] NAK, Stop
+Start, h62 [ h31 | WR ] NAK, Stop
+Start, h64 [ h32 | WR ] NAK, Stop
+Start, h66 [ h33 | WR ] NAK, Stop
+Start, h68 [ h34 | WR ] NAK, Stop
+Start, h6A [ h35 | WR ] NAK, Stop
+Start, h6C [ h36 | WR ] NAK, Stop
+Start, h6E [ h37 | WR ] NAK, Stop
+Start, h70 [ h38 | WR ] NAK, Stop
+Start, h72 [ h39 | WR ] NAK, Stop
+Start, h74 [ h3A | WR ] NAK, Stop
+Start, h76 [ h3B | WR ] NAK, Stop
+Start, h78 [ h3C | WR ] NAK, Stop
+Start, h7A [ h3D | WR ] NAK, Stop
+Start, h7C [ h3E | WR ] NAK, Stop
+Start, h7E [ h3F | WR ] NAK, Stop
+Start, h80 [ h40 | WR ] NAK, Stop
+Start, h82 [ h41 | WR ] NAK, Stop
+Start, h84 [ h42 | WR ] NAK, Stop
+Start, h86 [ h43 | WR ] NAK, Stop
+Start, h88 [ h44 | WR ] NAK, Stop
+Start, h8A [ h45 | WR ] NAK, Stop
+Start, h8C [ h46 | WR ] NAK, Stop
+Start, h8E [ h47 | WR ] NAK, Stop
+Start, h90 [ h48 | WR ], Stop
+Start, h92 [ h49 | WR ] NAK, Stop
+Start, h94 [ h4A | WR ] NAK, Stop
+Start, h96 [ h4B | WR ] NAK, Stop
+Start, h98 [ h4C | WR ] NAK, Stop
+Start, h9A [ h4D | WR ] NAK, Stop
+Start, h9C [ h4E | WR ] NAK, Stop
+Start, h9E [ h4F | WR ] NAK, Stop
+Start, hA0 [ h50 | WR ] NAK, Stop
+Start, hA2 [ h51 | WR ] NAK, Stop
+Start, hA4 [ h52 | WR ] NAK, Stop
+Start, hA6 [ h53 | WR ] NAK, Stop
+Start, hA8 [ h54 | WR ] NAK, Stop
+Start, hAA [ h55 | WR ] NAK, Stop
+Start, hAC [ h56 | WR ] NAK, Stop
+Start, hAE [ h57 | WR ] NAK, Stop
+Start, hB0 [ h58 | WR ] NAK, Stop
+Start, hB2 [ h59 | WR ] NAK, Stop
+Start, hB4 [ h5A | WR ] NAK, Stop
+Start, hB6 [ h5B | WR ] NAK, Stop
+Start, hB8 [ h5C | WR ] NAK, Stop
+Start, hBA [ h5D | WR ] NAK, Stop
+Start, hBC [ h5E | WR ] NAK, Stop
+Start, hBE [ h5F | WR ] NAK, Stop
+Start, hC0 [ h60 | WR ] NAK, Stop
+Start, hC2 [ h61 | WR ] NAK, Stop
+Start, hC4 [ h62 | WR ] NAK, Stop
+Start, hC6 [ h63 | WR ] NAK, Stop
+Start, hC8 [ h64 | WR ] NAK, Stop
+Start, hCA [ h65 | WR ] NAK, Stop
+Start, hCC [ h66 | WR ] NAK, Stop
+Start, hCE [ h67 | WR ] NAK, Stop
+Start, hD0 [ h68 | WR ] NAK, Stop
+Start, hD2 [ h69 | WR ] NAK, Stop
+Start, hD4 [ h6A | WR ] NAK, Stop
+Start, hD6 [ h6B | WR ] NAK, Stop
+Start, hD8 [ h6C | WR ] NAK, Stop
+Start, hDA [ h6D | WR ] NAK, Stop
+Start, hDC [ h6E | WR ] NAK, Stop
+Start, hDE [ h6F | WR ] NAK, Stop
+Start, hE0 [ h70 | WR ] NAK, Stop
+Start, hE2 [ h71 | WR ] NAK, Stop
+Start, hE4 [ h72 | WR ] NAK, Stop
+Start, hE6 [ h73 | WR ] NAK, Stop
+Start, hE8 [ h74 | WR ] NAK, Stop
+Start, hEA [ h75 | WR ] NAK, Stop
+Start, hEC [ h76 | WR ] NAK, Stop
+Start, hEE [ h77 | WR ] NAK, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h00, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010001 [ b1001000 | RD ], b10110001, b10110001, b10110001, b10110001 NAK, Stop
+Start, b10010001 [ b1001000 | RD ], b10110001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, b01001001 NAK, Stop
+Start, b10010001 [ b1001000 | RD ], b10110001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, b01001001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, b01001001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010001 [ b1001000 | RD ], b10110001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.
+I2C bus error. Verify the signal pullups.Start, b00010000 [ b0001000 | WR ] NAK, Stop
+Start, b00010010 [ b0001001 | WR ] NAK, Stop
+Start, b00010100 [ b0001010 | WR ] NAK, Stop
+Start, b00010110 [ b0001011 | WR ] NAK, Stop
+Start, b00011000 [ b0001100 | WR ] NAK, Stop
+Start, b00011010 [ b0001101 | WR ] NAK, Stop
+Start, b00011100 [ b0001110 | WR ] NAK, Stop
+Start, b00011110 [ b0001111 | WR ] NAK, Stop
+Start, b00100000 [ b0010000 | WR ] NAK, Stop
+Start, b00100010 [ b0010001 | WR ] NAK, Stop
+Start, b00100100 [ b0010010 | WR ] NAK, Stop
+Start, b00100110 [ b0010011 | WR ] NAK, Stop
+Start, b00101000 [ b0010100 | WR ] NAK, Stop
+Start, b00101010 [ b0010101 | WR ] NAK, Stop
+Start, b00101100 [ b0010110 | WR ] NAK, Stop
+Start, b00101110 [ b0010111 | WR ] NAK, Stop
+Start, b00110000 [ b0011000 | WR ] NAK, Stop
+Start, b00110010 [ b0011001 | WR ] NAK, Stop
+Start, b00110100 [ b0011010 | WR ] NAK, Stop
+Start, b00110110 [ b0011011 | WR ] NAK, Stop
+Start, b00111000 [ b0011100 | WR ] NAK, Stop
+Start, b00111010 [ b0011101 | WR ] NAK, Stop
+Start, b00111100 [ b0011110 | WR ] NAK, Stop
+Start, b00111110 [ b0011111 | WR ] NAK, Stop
+Start, b01000000 [ b0100000 | WR ] NAK, Stop
+Start, b01000010 [ b0100001 | WR ] NAK, Stop
+Start, b01000100 [ b0100010 | WR ] NAK, Stop
+Start, b01000110 [ b0100011 | WR ] NAK, Stop
+Start, b01001000 [ b0100100 | WR ] NAK, Stop
+Start, b01001010 [ b0100101 | WR ] NAK, Stop
+Start, b01001100 [ b0100110 | WR ] NAK, Stop
+Start, b01001110 [ b0100111 | WR ] NAK, Stop
+Start, b01010000 [ b0101000 | WR ] NAK, Stop
+Start, b01010010 [ b0101001 | WR ] NAK, Stop
+Start, b01010100 [ b0101010 | WR ] NAK, Stop
+Start, b01010110 [ b0101011 | WR ] NAK, Stop
+Start, b01011000 [ b0101100 | WR ] NAK, Stop
+Start, b01011010 [ b0101101 | WR ] NAK, Stop
+Start, b01011100 [ b0101110 | WR ] NAK, Stop
+Start, b01011110 [ b0101111 | WR ] NAK, Stop
+Start, b01100000 [ b0110000 | WR ] NAK, Stop
+Start, b01100010 [ b0110001 | WR ] NAK, Stop
+Start, b01100100 [ b0110010 | WR ] NAK, Stop
+Start, b01100110 [ b0110011 | WR ] NAK, Stop
+Start, b01101000 [ b0110100 | WR ] NAK, Stop
+Start, b01101010 [ b0110101 | WR ] NAK, Stop
+Start, b01101100 [ b0110110 | WR ] NAK, Stop
+Start, b01101110 [ b0110111 | WR ] NAK, Stop
+Start, b01110000 [ b0111000 | WR ] NAK, Stop
+Start, b01110010 [ b0111001 | WR ] NAK, Stop
+Start, b01110100 [ b0111010 | WR ] NAK, Stop
+Start, b01110110 [ b0111011 | WR ] NAK, Stop
+Start, b01111000 [ b0111100 | WR ] NAK, Stop
+Start, b01111010 [ b0111101 | WR ] NAK, Stop
+Start, b01111100 [ b0111110 | WR ] NAK, Stop
+Start, b01111110 [ b0111111 | WR ] NAK, Stop
+Start, b10000000 [ b1000000 | WR ] NAK, Stop
+Start, b10000010 [ b1000001 | WR ] NAK, Stop
+Start, b10000100 [ b1000010 | WR ] NAK, Stop
+Start, b10000110 [ b1000011 | WR ] NAK, Stop
+Start, b10001000 [ b1000100 | WR ] NAK, Stop
+Start, b10001010 [ b1000101 | WR ] NAK, Stop
+Start, b10001100 [ b1000110 | WR ] NAK, Stop
+Start, b10001110 [ b1000111 | WR ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], Stop
+Start, b10010010 [ b1001001 | WR ] NAK, Stop
+Start, b10010100 [ b1001010 | WR ] NAK, Stop
+Start, b10010110 [ b1001011 | WR ] NAK, Stop
+Start, b10011000 [ b1001100 | WR ] NAK, Stop
+Start, b10011010 [ b1001101 | WR ] NAK, Stop
+Start, b10011100 [ b1001110 | WR ] NAK, Stop
+Start, b10011110 [ b1001111 | WR ] NAK, Stop
+Start, b10100000 [ b1010000 | WR ] NAK, Stop
+Start, b10100010 [ b1010001 | WR ] NAK, Stop
+Start, b10100100 [ b1010010 | WR ] NAK, Stop
+Start, b10100110 [ b1010011 | WR ] NAK, Stop
+Start, b10101000 [ b1010100 | WR ] NAK, Stop
+Start, b10101010 [ b1010101 | WR ] NAK, Stop
+Start, b10101100 [ b1010110 | WR ] NAK, Stop
+Start, b10101110 [ b1010111 | WR ] NAK, Stop
+Start, b10110000 [ b1011000 | WR ] NAK, Stop
+Start, b10110010 [ b1011001 | WR ] NAK, Stop
+Start, b10110100 [ b1011010 | WR ] NAK, Stop
+Start, b10110110 [ b1011011 | WR ] NAK, Stop
+Start, b10111000 [ b1011100 | WR ] NAK, Stop
+Start, b10111010 [ b1011101 | WR ] NAK, Stop
+Start, b10111100 [ b1011110 | WR ] NAK, Stop
+Start, b10111110 [ b1011111 | WR ] NAK, Stop
+Start, b11000000 [ b1100000 | WR ] NAK, Stop
+Start, b11000010 [ b1100001 | WR ] NAK, Stop
+Start, b11000100 [ b1100010 | WR ] NAK, Stop
+Start, b11000110 [ b1100011 | WR ] NAK, Stop
+Start, b11001000 [ b1100100 | WR ] NAK, Stop
+Start, b11001010 [ b1100101 | WR ] NAK, Stop
+Start, b11001100 [ b1100110 | WR ] NAK, Stop
+Start, b11001110 [ b1100111 | WR ] NAK, Stop
+Start, b11010000 [ b1101000 | WR ] NAK, Stop
+Start, b11010010 [ b1101001 | WR ] NAK, Stop
+Start, b11010100 [ b1101010 | WR ] NAK, Stop
+Start, b11010110 [ b1101011 | WR ] NAK, Stop
+Start, b11011000 [ b1101100 | WR ] NAK, Stop
+Start, b11011010 [ b1101101 | WR ] NAK, Stop
+Start, b11011100 [ b1101110 | WR ] NAK, Stop
+Start, b11011110 [ b1101111 | WR ] NAK, Stop
+Start, b11100000 [ b1110000 | WR ] NAK, Stop
+Start, b11100010 [ b1110001 | WR ] NAK, Stop
+Start, b11100100 [ b1110010 | WR ] NAK, Stop
+Start, b11100110 [ b1110011 | WR ] NAK, Stop
+Start, b11101000 [ b1110100 | WR ] NAK, Stop
+Start, b11101010 [ b1110101 | WR ] NAK, Stop
+Start, b11101100 [ b1110110 | WR ] NAK, Stop
+Start, b11101110 [ b1110111 | WR ] NAK, Stop
+Start, b01001000 [ b0100100 | WR ] NAK, Stop
+Start, b01001000 [ b0100100 | WR ] NAK, Stop
+Start, b01001000 [ b0100100 | WR ] NAK, Stop
+Start, b01001000 [ b0100100 | WR ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010001 [ b1001000 | RD ], b11111111 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010001 [ b1001000 | RD ], b10110001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, Stop
+Start, b10010011 [ b1001001 | RD ] NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, b10001100 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, b01001001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, 
+Restart, b10010001 [ b1001000 | RD ], b10110001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, 
+Restart, b10010001 [ b1001000 | RD ], b10110001 NAK, Stop
+Start, h90 [ h48 | WR ], h8C, 
+Restart, h91 [ h48 | RD ], hB1 NAK, Stop
+Start, h90 [ h48 | WR ], h8C, 
+Restart, h91 [ h48 | RD ], hFF NAK, Stop
+Start, h90 [ h48 | WR ], h8C, 
+Restart, h91 [ h48 | RD ], hB1 NAK, Stop
+Start, h90 [ h48 | WR ], h8C, 
+Restart, h91 [ h48 | RD ], hFF NAK, Stop
+Start, h90 [ h48 | WR ], h8C, 
+Restart, h91 [ h48 | RD ], h57 NAK, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h93 [ h49 | RD ] NAK, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h93 [ h49 | RD ] NAK, Stop
+Start, h90 [ h48 | WR ], h8C, Stop
+Start, h93 [ h49 | RD ] NAK, Stop
+Start, 144 [ 72 | WR ], 140, 
+Restart, 145 [ 72 | RD ], 177 NAK, Stop
+Start, 144 [ 72 | WR ], 140, 
+Restart, 145 [ 72 | RD ], 255 NAK, Stop
+Start, 144 [ 72 | WR ], 140, 
+Restart, 145 [ 72 | RD ], 82 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, 
+Restart, b10010001 [ b1001000 | RD ], b10110001 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, 
+Restart, b10010001 [ b1001000 | RD ], b11111111 NAK, Stop
+Start, b10010000 [ b1001000 | WR ], b10001100, 
+Restart, b10010001 [ b1001000 | RD ], b01010010 NAK, Stop

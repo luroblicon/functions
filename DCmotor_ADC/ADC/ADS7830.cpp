@@ -33,7 +33,7 @@ int ADS7830::currentMode(){
 //IRADon = 3, //Internal Reference ON and A/D Converter ON
  
 void ADS7830::setCommand(int commandMode){
-    _commandMode = commandMode;
+    _commandMode = commandMode; 
     switch(_commandMode)
     {
         case 0:
@@ -52,7 +52,7 @@ void ADS7830::setCommand(int commandMode){
           _commandByte = (_commandByte | (1<<3) | (1 << 2));
           break;
     }
-}
+} 
 
 int ADS7830::readChan(int chanNum){
   _chanNum = chanNum;
