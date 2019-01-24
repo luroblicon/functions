@@ -1,0 +1,14 @@
+//ADS7830
+
+var hallVolt;
+const writeAdd = 0x48;
+const readAdd = 0x49;
+const command = 0b10001100; 
+
+if (Clear( )!=true) return "I2C busy";
+//else if(Write(wAdd)!= true) return "Device Not Acknowledge"
+else{
+Write(wAdd,0b10001100);
+hallVolt = Read(h49,1);
+return hallVolt;
+}

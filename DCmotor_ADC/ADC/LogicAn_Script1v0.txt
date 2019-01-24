@@ -1,0 +1,4 @@
+
+Write(h48,140);
+var temp = Read(h49,1);
+return temp;
